@@ -1,0 +1,70 @@
+/* freecode camp works */
+h1{
+text-align: center;
+}
+.container{
+background-color: rgb(255,255,255);
+padding:10px 0;
+}
+.marker{
+width: 300px;
+height: 25px;
+margin:10px auto;
+padding: 10px;
+}
+.red{
+background-color: rgb(255,127,0);
+}
+.green{
+background-color: rgb(0,255,0);
+}
+.blue{
+background-color:rgb(0,0,255)
+}
+/* trial exercises */
+h2{
+text-align: center;
+font-family: cursive;
+}
+.tin{
+background-color:rgb(255,255,255);
+padding: 10px 0;
+}
+.pen{
+width: 300px;
+height:50px;
+margin:10px auto;
+}
+.der{
+/* background-color:rgb(127,0,0); */
+background: linear-gradient(rgb(255,0,0),rgb(0,255,0),rgb(0,0,255))
+}
+.neerg{
+background-color:rgb(0,127,0);
+}
+.eulb{
+background-color:rgb(0,0,127);
+}
+/* practice two */
+.dish{
+background-color: rgb(255,255,255);
+padding: 10px;
+width: 200px;
+margin: auto;
+}
+.crayon{
+width:60px;
+height: 250px;
+margin: auto;
+display: inline-block;
+}
+
+.first{
+background-color: red;
+}
+.second{
+background-color: blue;
+}
+.third{
+background-color: green;
+}
